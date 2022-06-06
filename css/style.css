@@ -16,7 +16,6 @@ body {
 main {
     /* Fills up remaining space */
     flex: 1;
-    padding: 20px 150px;
 }
 
 /* Header */
