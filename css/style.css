@@ -24,6 +24,10 @@ section {
     padding: 100px 400px;
 }
 
+button {
+    background-color: #3882f6;;
+}
+
 /* Header */
 
 header, 
@@ -59,6 +63,17 @@ header a {
 
 .hero-section {
     background-color: #1f2937;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.hero-text p {
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 .hero-section img {
