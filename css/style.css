@@ -93,3 +93,12 @@ h1 {
     height: 400px;
 }
 
+/* Information section */
+
+.information-section {
+    display: block;
+}
+
+h2 {
+    text-align:center;
+}
