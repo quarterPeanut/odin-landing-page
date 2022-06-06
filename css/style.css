@@ -109,6 +109,8 @@ h2 {
 
 .container {
     display: flex;
+    /* Align-content not working to move next row closer */
+    flex-wrap: wrap;
     justify-content: center;
     gap: 50px;
 }
