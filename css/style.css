@@ -63,6 +63,7 @@ header a {
 
 .hero-section {
     background-color: #1f2937;
+    gap: 50px;
 }
 
 h1 {
