@@ -126,3 +126,9 @@ h2 {
     border: 3px solid #3882f6;
     border-radius: 15px;
 }
+
+/* Quote section */
+
+.quote-section {
+    background-color: #e5e7eb;
+}
