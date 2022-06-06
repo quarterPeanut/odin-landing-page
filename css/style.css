@@ -105,4 +105,23 @@ h2 {
 
 .container {
     display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.info img,
+.info p {
+    width: 175px;
+    height: 175px;
+}
+
+.info img {
+    border: 3px solid #3882f6;
+    border-radius: 15px;
 }
