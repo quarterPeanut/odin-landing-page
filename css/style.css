@@ -64,7 +64,7 @@ header a {
 .hero-section img {
     flex-shrink: 0;
     border: 1px solid grey;
-    width: 400px;
+    width: 500px;
     height: 250px;
 }
 
