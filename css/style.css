@@ -16,7 +16,7 @@ body {
 main {
     /* Fills up remaining space */
     flex: 1;
-    padding: 20px 50px;
+    padding: 20px 150px;
 }
 
 /* Header */
@@ -24,7 +24,7 @@ main {
 header, 
 footer {
     background-color: #1f2937;
-    padding: 20px 50px;
+    padding: 20px 150px;
 }
 
 header {
@@ -59,14 +59,12 @@ header img {
 
 .hero-section {
     display: flex;
-}
-
-.hero-text {
-    flex: 1;
+    background-color: yellow;
 }
 
 .hero-section img {
     border: 1px solid grey;
     width: 400px;
-    height: 200px;
+    height: 250px;
 }
+
