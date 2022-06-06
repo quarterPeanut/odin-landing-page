@@ -25,7 +25,14 @@ section {
 }
 
 button {
+    color: #f9faf8;
     background-color: #3882f6;;
+    border-radius: 7px;;
+    border: 0px none;
+    padding: 8px 30px;
+    font-size: 17px;
+    font-weight: bold;
+    
 }
 
 /* Header */
