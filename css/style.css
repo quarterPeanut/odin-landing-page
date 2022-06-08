@@ -137,7 +137,7 @@ h2 {
 }
 
 .quote-container {
-    max-width: 860px;
+    max-width: 790px;
 }
 
 .quote-section blockquote {
@@ -150,4 +150,6 @@ h2 {
 .quote-section p {
     font-weight: bold;
     align-self: flex-end;
+    text-align: right;
+    margin-right: 30px;
 }
