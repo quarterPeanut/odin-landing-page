@@ -153,3 +153,19 @@ h2 {
     text-align: right;
     margin-right: 30px;
 }
+
+/* Call to action section */
+
+.call-to-action {
+    background-color: #3882f6;
+    padding: 25px 100px;
+    display: flex;
+}
+
+.call-to-action strong {
+    color: white;
+}
+
+.call-to-action p {
+    color:#f9faf8;
+}
