@@ -121,6 +121,7 @@ h2 {
     flex-direction: column;
     gap: 8px;
     flex-basis: 175px;
+    flex-shrink: 0;
 }
 
 .info img {
