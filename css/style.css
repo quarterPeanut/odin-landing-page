@@ -21,7 +21,7 @@ main {
 section {
     display: flex;
     justify-content: center;
-    padding: 50px 300px;
+    padding: 100px 300px;
 }
 
 button {
@@ -97,6 +97,7 @@ h1 {
 
 .information-section {
     display: block;
+    padding-top: 50px;
 }
 
 h2 {
