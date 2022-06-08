@@ -41,6 +41,7 @@ header,
 footer {
     background-color: #1f2937;
     padding: 20px 300px;
+    color: #f9faf8;
 }
 
 header {
@@ -51,7 +52,6 @@ header {
 
 .logo {
     font-size: 24px;
-    color: #f9faf8;
 }
 
 .navigation {
@@ -62,7 +62,7 @@ header {
 
 /* placeholder */
 header a {
-    color: white;
+    color: #f9faf8;
     text-decoration: none;
 }
 
