@@ -158,8 +158,11 @@ h2 {
 
 .call-to-action {
     background-color: #3882f6;
-    padding: 25px 100px;
+    border-radius: 10px;
+    padding: 50px 150px;
     display: flex;
+    justify-content: space-between;
+    gap: 100px;
 }
 
 .call-to-action strong {
@@ -168,4 +171,8 @@ h2 {
 
 .call-to-action p {
     color:#f9faf8;
+}
+
+.call-to-action button {
+    border: 2px solid white;
 }
