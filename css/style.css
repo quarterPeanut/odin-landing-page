@@ -134,3 +134,19 @@ h2 {
 .quote-section {
     background-color: #e5e7eb;
 }
+
+.quote-container {
+    max-width: 860px;
+}
+
+.quote-section blockquote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.quote-section p {
+    font-weight: bold;
+    align-self: flex-end;
+}
